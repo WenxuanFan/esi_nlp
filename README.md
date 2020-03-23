@@ -14,7 +14,11 @@ jazz tutorial?
 
 * Windows env path 要在安装时 check.
 
+- Conda Cheat Sheet: https://conda.io/projects/conda/en/latest/user-guide/cheatsheet.html
+
 1. Github
+
+- Starter Guide: https://guides.github.com/activities/hello-world/
 
 2. Atom setup
 

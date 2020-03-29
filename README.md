@@ -16,6 +16,10 @@ jazz tutorial?
 
 1. Github
 
+Push & Pull Tutorial
+
+https://www.datacamp.com/community/tutorials/git-push-pull
+
 2. Atom setup
 
 https://www.youtube.com/watch?v=aiXNKHKWlmY
